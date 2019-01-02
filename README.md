@@ -55,3 +55,38 @@
    HIGH-ORDER PROCEDURES
    DATA AS PROCEDURES
 ```
+
+## conventional interfaces:
+```
+- GENERIC OPERATIONS
+- LARGE-SCALE STRUCTURE AND MODULARITY
+- OBJECT-ORIENTED PROGRAMMING
+- OPERATIONS ON AGGREGATES
+```
+   - agreed upon ways of plugging things together.
+   - SICP describes conventional interfaces as a design principle for working with data structures. It is composed of a set of standard operators or combinators that connect the different steps required to implement computations in computer programs
+   
+## Metalinguistic Abstraction - making new languages
+```
+- INTERPRETATION APPLY-EVAL
+- EXAMPLE - LOGIC PROGRAMMING
+- REGISTER MACHINES
+```
+
+<hr>
+
+- **primitive elements**
+- **means of combination**: in Lisp combination which has meaning, applying operators to operands.
+- **means of abstraction**
+
+<hr>
+
+##Lisp
+```lisp
+(DEFINE (SQUARE x) (* x x))
+```
+is same as
+
+```lisp
+(DEFINE SQUARE (LAMBDA (x) (* x x)))
+``` 
