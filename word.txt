@@ -6,3 +6,6 @@ intertwine definition
 // 1.11
 instructive
 redundant
+
+// 11.18
+postulating
