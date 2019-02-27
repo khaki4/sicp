@@ -1,3 +1,7 @@
+// 2.27
+isomorphism
+judiciously
+
 // 2.20
 coefficient
 
